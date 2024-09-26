@@ -33,7 +33,7 @@
 - I once attended a tech conference where I met some of my favorite industry leaders, which inspired me to pursue a career in tech.
   
 ## 🎨 Hobbies
-- I enjoy reading, going to cafes to read, attending events, and writing.
+- I enjoy reading, going to cafes to read, attending tech events, and writing.
 
 
 <!---
