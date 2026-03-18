@@ -154,12 +154,6 @@ If you care about tech for good  let's talk.
 
 ✦ &nbsp; *"Every expert was once a beginner. Every pro was once an amateur."* &nbsp; ✦
 
-<br/>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LebogangM1403.LebogangM1403&color=7B006B)
-
-</div>
-
 <!---
 LebogangM1403/LebogangM1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
